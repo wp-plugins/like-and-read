@@ -1,6 +1,6 @@
 === Like and Read ===
 Contributors: sangay
-Tags: Facebook Like, Like and Read, Content Locker  
+Tags: Facebook like, like and read, content locker, content protect
 Requires at least: 3.3  
 Tested up to: 4.2.2  
 License: GPLv2 or later  
@@ -10,7 +10,11 @@ Click Facebook like button to read post/page contents.
 
 == Description ==
 
+Note: This plugin has some bugs. I am working to fix it asap. - Sangay
+
 Show only excerpts of post/page contents. Users have to click Facebook like button to read full post or page.
+
+You can hide entire pages or posts or just sections of pages or posts. Visitors can read first few words (number of characters initially visible can be set) but force them to  click Like button to keep reading.
 
 
 == Changelog ==
@@ -32,8 +36,6 @@ After installing the Plugin, go to Settings -> Like and Read where you can set n
 
 On Wordpress visual editor select block of text you want to hide and click "Like and Read shortcode" icon. This will add shortcode [like-and-read]...[/like-and-read] and the contents within it will be hidden.
 
-== Upgrade Notice ==
+== Demo ==
 
 == Screenshots ==
-
-== Frequently Asked Questions ==

@@ -9,6 +9,7 @@ Author URI: http://sangaytenzin.com
 
 */
 
+
 // Plugin shortcode i.e. [like-and-read]Hidden content [/like-and-read]
 add_shortcode ( 'like-and-read', 'like_and_read_function' );
 
