@@ -3,18 +3,15 @@ Contributors: sangay
 Tags: Facebook like, like and read, content locker, content protect
 Requires at least: 3.3  
 Tested up to: 4.2.2  
-License: GPLv2 or later  
 Stable tag: trunk
 
 Click Facebook like button to read post/page contents.
 
 == Description ==
 
-Note: This plugin has some bugs. I am working to fix it asap. - Sangay
-
 Show only excerpts of post/page contents. Users have to click Facebook like button to read full post or page.
 
-You can hide entire pages or posts or just sections of pages or posts. Visitors can read first few words (number of characters initially visible can be set) but force them to  click Like button to keep reading.
+You can hide entire pages or posts or just sections of them. Visitors can read first few words (number of characters initially visible can be set) but force them to  click Like button to keep reading.
 
 
 == Changelog ==
