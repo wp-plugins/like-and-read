@@ -33,6 +33,8 @@ After installing the Plugin, go to Settings -> Like and Read where you can set n
 
 On Wordpress visual editor select block of text you want to hide and click "Like and Read shortcode" icon. This will add shortcode [like-and-read]...[/like-and-read] and the contents within it will be hidden.
 
-== Demo ==
-
 == Screenshots ==
+
+1. Options Setting
+
+2. Output
