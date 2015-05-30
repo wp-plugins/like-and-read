@@ -1,9 +1,12 @@
 <?php
 /*
 Plugin Name: Like and Read
+Plugin URI: https://wordpress.org/plugins/like-and-read/
 Description: Like and read full post/page content. Only excerpt is displayed initially. The width of excerpt is set by admin.
 Version: 1.0
 Author: Sangay Tenzin
+Author URI: http://sangaytenzin.com
+
 */
 
 // Plugin shortcode i.e. [like-and-read]Hidden content [/like-and-read]
